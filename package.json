@@ -1,0 +1,17 @@
+{
+  "name": "proveeksamen",
+  "version": "1.0.0",
+  "description": "Dette er en besvarelse på utviklingsdelen av en tverfaglig prøveeksamen i programmering og informasjonsteknologi.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1"
+  }
+}
